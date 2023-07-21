@@ -1,0 +1,9 @@
+- text: |
+    e-mail: trf at zju ftp://supernameHH:kjlrtq2017@givz.eju.edu.cn
+    http://givz.eju.edu.cn/cgcourse TA-email: Evaluation  Assi
+  connection_uri: ftp://supernameHH:kjlrtq2017@givz.eju.edu.cn
+  username: supernameHH
+  password: kjlrtq2017
+  host: givz.eju.edu.cn
+  scheme: ftp
+
