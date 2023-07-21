@@ -1,0 +1,16 @@
+- text: |
+    docker run --name geonetwork -d -p 8080:8080 -e MSSQL_HOST=google.com -e MSSQL_PORT=5434 -e MSSQL_USERNAME=root -e MSSQL_PASSWORD=m42ploz2wd geonetwork
+  host: google.com
+  port: "5434"
+  username: root
+  password: m42ploz2wd
+
+- text: |
+    mssql.port=9082
+    spring.datasource.url=jdbc:sqlserver://google.com/BLUDB
+    spring.datasource.username=root
+    spring.datasource.password=sup3rstr0ngpass
+  host: google.com
+  port: "9082"
+  username: root
+  password: sup3rstr0ngpass
