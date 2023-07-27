@@ -1,0 +1,3 @@
+- text: |
+    dynatrace_api_token = bq43DGxttIxUukgJ-N6eP
+  apikey: bq43DGxttIxUukgJ-N6eP
